@@ -19,15 +19,11 @@
 
 <!-- ROW 1 — FULL WIDTH: About Me -->
 
-<div align="center">
+<p align="center"><strong>About Me</strong></p>
 
-**About Me**
+<p align="center">CS Undergraduate · <strong>NORSU Batch 2027</strong> · Building modern full-stack systems across web, mobile & IoT.</p>
 
-CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems across web, mobile & IoT.
-
-`Lead` Campus Connect (AY 2025–2026) &nbsp;|&nbsp; `Building` Norsu SMS ecosystem &nbsp;|&nbsp; `Learning` Next.js · Docker · System Design
-
-</div>
+<p align="center"><code>Lead</code> Campus Connect (AY 2025–2026) &nbsp;|&nbsp; <code>Building</code> Norsu SMS ecosystem &nbsp;|&nbsp; <code>Learning</code> Next.js · Docker · System Design</p>
 
 ---
 
@@ -39,35 +35,19 @@ CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems a
 <!-- COL 1: Tech Stack -->
 <td width="50%" align="center">
 
-<div align="center">
+<p align="center"><strong>Tech Stack</strong></p>
 
-**Tech Stack**
+<p align="center"><img src="https://img.shields.io/badge/──────%20Languages%20──────-0d1117?style=flat-square&labelColor=0d1117&color=f77e0b" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,dart&theme=dark&perline=7" height="28" /></p>
 
-<br/>
+<p align="center"><img src="https://img.shields.io/badge/───%20Frontend%20%26%20Mobile%20───-0d1117?style=flat-square&labelColor=0d1117&color=88bdf8" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,flutter&theme=dark&perline=6" height="28" /></p>
 
-<img src="https://img.shields.io/badge/──────%20Languages%20──────-0d1117?style=flat-square&labelColor=0d1117&color=f59e0b" />
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,dart&theme=dark&perline=7" height="28" />
+<p align="center"><img src="https://img.shields.io/badge/──────%20Backend%20──────-0d1117?style=flat-square&labelColor=0d1117&color=10b981" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=laravel,symfony,django,nodejs,express&theme=dark&perline=5" height="28" /></p>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/───%20Frontend%20%26%20Mobile%20───-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,flutter&theme=dark&perline=6" height="28" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────%20Backend%20──────-0d1117?style=flat-square&labelColor=0d1117&color=10b981" />
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,symfony,django,nodejs,express&theme=dark&perline=5" height="28" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/───%20DevOps%20%26%20Tools%20───-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark&perline=6" height="28" />
-
-</div>
+<p align="center"><img src="https://img.shields.io/badge/───%20DevOps%20%26%20Tools%20───-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark&perline=6" height="28" /></p>
 
 </td>
 
@@ -75,27 +55,21 @@ CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems a
 <td width="1px" style="border-left:1px solid #f59e0b; padding:0;"></td>
 
 <!-- COL 2: Achievements -->
-<td width="50%" align="center" style="padding-left:14px;">
+<td width="50%" align="center">
 
-<div align="center">
+<p align="center"><strong>Achievements</strong></p>
 
-**Achievements**
+<p align="center"><img src="https://img.shields.io/badge/2025-Quantum%20%26%20Blockchain%20Hackathon-6366f1?style=for-the-badge&logoColor=white" /></p>
 
-<br/>
+<p align="center"><img src="https://img.shields.io/badge/Cisco-Intro%20to%20Modern%20AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></p>
 
-![Hackathon](https://img.shields.io/badge/2025-Quantum%20%26%20Blockchain%20Hackathon-6366f1?style=for-the-badge&logoColor=white)
+<p align="center"><img src="https://img.shields.io/badge/Salesforce-AgentBlazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></p>
 
-![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Modern%20AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<p align="center"><img src="https://img.shields.io/badge/Core%20Engineer-HyperLocalWeather%20Smart%20City-10b981?style=for-the-badge&logoColor=white" /></p>
 
-![Salesforce](https://img.shields.io/badge/Salesforce-AgentBlazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<p align="center"><img src="https://img.shields.io/badge/No--Code-SikAP%20AI%20Micro--Lending%20Platform-8b5cf6?style=for-the-badge&logoColor=white" /></p>
 
-![SmartCity](https://img.shields.io/badge/Core%20Engineer-HyperLocalWeather%20Smart%20City-10b981?style=for-the-badge&logoColor=white)
-
-![AI](https://img.shields.io/badge/No--Code-SikAP%20AI%20Micro--Lending%20Platform-8b5cf6?style=for-the-badge&logoColor=white)
-
-![ASEAN](https://img.shields.io/badge/ASEAN-Negros%20Startup%20Fest%202025-f59e0b?style=for-the-badge&logoColor=black)
-
-</div>
+<p align="center"><img src="https://img.shields.io/badge/ASEAN-Negros%20Startup%20Fest%202025-f59e0b?style=for-the-badge&logoColor=black" /></p>
 
 </td>
 
@@ -112,44 +86,40 @@ CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems a
 <!-- COL 1: Projects -->
 <td width="50%" align="center">
 
-**Featured Projects**
+<p align="center"><strong>Featured Projects</strong></p>
 
-<br/>
+<p align="center"><img src="https://img.shields.io/badge/Norsu%20SMS-University%20Management%20System-38bdf8?style=for-the-badge&logo=react&logoColor=white" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<a href="https://github.com/yayinobody"><img src="https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black" /></a>
+</p>
 
-![Norsu SMS](https://img.shields.io/badge/Norsu%20SMS-University%20Management%20System-38bdf8?style=for-the-badge&logo=react&logoColor=white)
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-[![Repo](https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black)](https://github.com/yayinobody)
+<p align="center"><img src="https://img.shields.io/badge/Campus%20Connect-Guild%20Web%20Platform-6366f1?style=for-the-badge&logo=nextdotjs&logoColor=white" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<a href="https://github.com/yayinobody"><img src="https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black" /></a>
+</p>
 
-<br/>
+<p align="center"><img src="https://img.shields.io/badge/Digital%20Water%20Billing-Municipal%20Utility%20System-10b981?style=for-the-badge&logo=laravel&logoColor=white" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<a href="https://github.com/yayinobody"><img src="https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black" /></a>
+</p>
 
-![Campus Connect](https://img.shields.io/badge/Campus%20Connect-Guild%20Web%20Platform-6366f1?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-[![Repo](https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black)](https://github.com/yayinobody)
-
-<br/>
-
-![Water Billing](https://img.shields.io/badge/Digital%20Water%20Billing-Municipal%20Utility%20System-10b981?style=for-the-badge&logo=laravel&logoColor=white)
-<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-[![Repo](https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black)](https://github.com/yayinobody)
-
-<br/>
-
-![IoT Banking](https://img.shields.io/badge/IoT%20Banking%20System-Secure%20Hardware--Software-f97316?style=for-the-badge&logo=cplusplus&logoColor=white)
-<br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-[![Repo](https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black)](https://github.com/yayinobody)
+<p align="center"><img src="https://img.shields.io/badge/IoT%20Banking%20System-Secure%20Hardware--Software-f97316?style=for-the-badge&logo=cplusplus&logoColor=white" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<a href="https://github.com/yayinobody"><img src="https://img.shields.io/badge/Repo-f59e0b?style=flat-square&logo=github&logoColor=black" /></a>
+</p>
 
 </td>
 
@@ -157,17 +127,15 @@ CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems a
 <td width="1px" style="border-left:1px solid #f59e0b; padding:0;"></td>
 
 <!-- COL 2: GitHub Stats -->
-<td width="50%" align="center" style="padding-left:14px;">
+<td width="50%" align="center">
 
-**GitHub Activity**
+<p align="center"><strong>GitHub Activity</strong></p>
 
-<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yayinobody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&rank_icon=github&hide=prs&count_private=true" width="100%" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yayinobody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&rank_icon=github&hide=prs&count_private=true" width="100%" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayinobody&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" width="100%" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayinobody&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=yayinobody&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" width="100%" />
+<p align="center"><img src="https://streak-stats.demolab.com?user=yayinobody&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" width="100%" /></p>
 
 </td>
 </tr>
@@ -176,64 +144,44 @@ CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems a
 ---
 
 <!-- Animated philosophy banner -->
-<div align="center">
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=14&duration=4000&pause=1200&color=38bdf8&center=true&vCenter=true&width=700&height=24&lines=%E2%80%9CCode+is+not+just+logic+%E2%80%94+it%E2%80%99s+craft.%E2%80%9D" alt="Quote" />
-
-</div>
+</p>
 
 ---
 
 <!-- Animated stack marquee -->
-<div align="center">
-
+<p align="center">
 <img src="https://img.shields.io/badge/%E2%9C%A6%20Clean%20Architecture-passionate-38bdf8?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/%E2%9C%A6%20Performance%20Driven-engineering-6366f1?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/%E2%9C%A6%20IoT%20%2B%20Web%20%2B%20Mobile-builder-10b981?style=flat-square&labelColor=0d1117" />
+</p>
 
-<br /><br />
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=13&duration=2500&pause=800&color=94a3b8&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+Vue.js+%7C+Flutter+%7C+Laravel+%7C+Django+%7C+Node.js+%7C+Docker+%7C+MySQL" alt="Stack Marquee" />
+</p>
 
+---
+
+<!-- Snake contribution grid -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 </div>
 
 ---
 
 <!-- Connect -->
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yayinobody)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/placeholder)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjay.alanano23@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639628865466)
-
-<br/>
+<p align="center">
+<a href="https://github.com/yayinobody"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rolind-joric-alanano-1752152a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arjay.alanano23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+123456789"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,60:78350f,100:0d1117&height=120&section=footer" width="100%" />
-
-</div>
-
-<!--
-  SNAKE ANIMATION SETUP
-  Create .github/workflows/snake.yml:
-
-  name: Generate Snake
-  on:
-    schedule: [{cron: "0 0 * * *"}]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: yayinobody
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with: {target_branch: output, build_dir: dist}
-          env: {GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}}
--->
