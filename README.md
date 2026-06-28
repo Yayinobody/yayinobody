@@ -39,29 +39,35 @@ CS Undergraduate · **NORSU Batch 2027** · Building modern full-stack systems a
 <!-- COL 1: Tech Stack -->
 <td width="50%" align="center">
 
+<div align="center">
+
 **Tech Stack**
 
-Languages
+<br/>
+
+<img src="https://img.shields.io/badge/──────%20Languages%20──────-0d1117?style=flat-square&labelColor=0d1117&color=f59e0b" />
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,dart&theme=dark&perline=7" height="28" />
 
-<br/>
+<br/><br/>
 
-Frontend & Mobile
+<img src="https://img.shields.io/badge/───%20Frontend%20%26%20Mobile%20───-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,flutter&theme=dark&perline=6" height="28" />
 
-<br/>
+<br/><br/>
 
-Backend
+<img src="https://img.shields.io/badge/──────%20Backend%20──────-0d1117?style=flat-square&labelColor=0d1117&color=10b981" />
 <br/>
 <img src="https://skillicons.dev/icons?i=laravel,symfony,django,nodejs,express&theme=dark&perline=5" height="28" />
 
-<br/>
+<br/><br/>
 
-DevOps & Tools
+<img src="https://img.shields.io/badge/───%20DevOps%20%26%20Tools%20───-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark&perline=6" height="28" />
+
+</div>
 
 </td>
 
@@ -70,6 +76,8 @@ DevOps & Tools
 
 <!-- COL 2: Achievements -->
 <td width="50%" align="center" style="padding-left:14px;">
+
+<div align="center">
 
 **Achievements**
 
@@ -86,6 +94,8 @@ DevOps & Tools
 ![AI](https://img.shields.io/badge/No--Code-SikAP%20AI%20Micro--Lending%20Platform-8b5cf6?style=for-the-badge&logoColor=white)
 
 ![ASEAN](https://img.shields.io/badge/ASEAN-Negros%20Startup%20Fest%202025-f59e0b?style=for-the-badge&logoColor=black)
+
+</div>
 
 </td>
 
@@ -203,14 +213,6 @@ DevOps & Tools
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,60:78350f,100:0d1117&height=120&section=footer" width="100%" />
 
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 </div>
 
 <!--
