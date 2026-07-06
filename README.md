@@ -23,7 +23,7 @@
 
 <p align="center">CS Undergraduate · <strong>NORSU Batch 2027</strong> · Building modern full-stack systems across web, mobile & IoT.</p>
 
-<p align="center"><code>Lead</code> Campus Connect (AY 2025–2026) &nbsp;|&nbsp; <code>Building</code> Norsu SMS ecosystem &nbsp;|&nbsp; <code>Learning</code> Next.js · Docker · System Design</p>
+<p align="center"><code>Building</code> Norsu SMS ecosystem &nbsp;|&nbsp; <code>Learning</code> Next.js · Docker · System Design&nbsp;|&nbsp; Idealist Guild </p>
 
 ---
 
@@ -52,7 +52,7 @@
 </td>
 
 <!-- vertical separator -->
-<td width="1px" style="border-left:1px solid #f59e0b; padding:0;"></td>
+<td width="500px" style="border:none solid #f59e0b; padding:0;"></td>
 
 <!-- COL 2: Achievements -->
 <td width="50%" align="center">
@@ -124,7 +124,7 @@
 </td>
 
 <!-- vertical separator -->
-<td width="1px" style="border-left:1px solid #f59e0b; padding:0;"></td>
+<td width="1px" style="border:none  solid #f59e0b; padding:0;"></td>
 
 <!-- COL 2: GitHub Stats -->
 <td width="50%" align="center">
