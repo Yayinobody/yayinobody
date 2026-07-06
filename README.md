@@ -48,13 +48,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yayinobody&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9&rank_icon=github&hide=prs&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayinobody&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=6" width="48%" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yayinobody/yayinobody/output/github-contribution-grid-snake.svg" />
