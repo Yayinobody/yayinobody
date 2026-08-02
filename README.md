@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Rolind Joric Alanano</h1>
-  <p><b>AI Stack Engineer | CS Undergrad @ NORSU</b></p>
+  <p><b>AI Stack Engineer? bleh ;p | CS Undergrad @ NORSU</b></p>
   <p>Zamboanguita, Negros Oriental, Philippines</p>
   <p>Building modern full-stack systems across web, mobile, and IoT.</p>
 </div>
